@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="next">Next</string>
+    <string name="earth">Earth</string>
+    <string name="previous">Previous</string>
+    <string name="reset">Reset</string>
+    <string name="welcome_user">Welcome User!!</string>
+</resources>
